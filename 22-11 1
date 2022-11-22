@@ -1,0 +1,7 @@
+p = 10000
+t = 12
+r = 2
+si =(p*t*r)/100
+emi = (p+si)/12
+print(si)
+print(emi)
